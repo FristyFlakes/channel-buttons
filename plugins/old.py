@@ -31,8 +31,7 @@ async def old(client, message):
         message_id=message.message_id,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton('📩 𝗠𝗢𝗗𝗭𝗜𝗟𝗟𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 📩', url='https://t.me/joinchat/AAAAAE-44AkxSyqIMj1tdQ')],
-                [InlineKeyboardButton('📫 𝗠𝗢𝗗𝗭𝗜𝗟𝗟𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 📫', url='https://t.me/joinchat/AAAAAE-44AkxSyqIMj1tdQ')],
+                [InlineKeyboardButton('🗳 𝗠𝗢𝗗𝗭𝗜𝗟𝗟𝗔 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🗳', url='https://t.me/joinchat/AAAAAE-44AkxSyqIMj1tdQ')],
             ]  
         )
     )
